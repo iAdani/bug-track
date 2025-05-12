@@ -4,6 +4,16 @@ A full-stack web application for tracking software bugs, built as a portfolio pr
 
 ---
 
+## 📋 Project Board
+
+You can view the live Kanban board for this project on Jira:
+
+🔗 [View Jira Board](https://iadani.atlassian.net/jira/software/projects/BT/boards/1)
+
+This board is used to track features, bugs, and development progress using Agile methodology.
+
+---
+
 ## 🧠 Tech Stack
 
 ### 🖥️ Frontend
