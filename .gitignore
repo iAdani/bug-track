@@ -34,3 +34,4 @@ Thumbs.db
 
 # Optional: ignore test coverage reports
 coverage/
+*.txt
